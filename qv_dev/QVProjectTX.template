@@ -1,0 +1,17 @@
+        <PrjFrameParentDef>
+          <ObjectId>Document\$txid</ObjectId>
+          <Rect>
+            <Left>$PositionL</Left>
+            <Top>$PositionT</Top>
+            <Width>$Width</Width>
+            <Height>$Height</Height>
+          </Rect>
+          <MinimizedRect>
+            <Left>0</Left>
+            <Top>0</Top>
+            <Width>297</Width>
+            <Height>102</Height>
+          </MinimizedRect>
+          <ShowMode>1</ShowMode>
+          <ZedLevel>-1</ZedLevel>
+        </PrjFrameParentDef>
